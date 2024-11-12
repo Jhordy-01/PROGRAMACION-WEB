@@ -18,6 +18,8 @@
              <br>
             <a href="Practica6.html" title="Práctica 6"> Práctica 6 </a>
             <br>
+
+            <p>Praácticas de PHP en mi nuevo link</p>
             <a href="Practica 2.php" title="Práctica 2"> Práctica 2 </a>
         </body>
 </html>
