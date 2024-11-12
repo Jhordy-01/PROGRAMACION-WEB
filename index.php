@@ -21,7 +21,7 @@
 
             <p>Praácticas de PHP en mi nuevo link</p>
             <br>
-             <a href="PRACTICA 1.html" title="Práctica 1"> Práctica 1 </a>
+             <a href="PRACTICA 1.php" title="Práctica 1"> Práctica 1 </a>
             <br>
             <a href="Practica 2.php" title="Práctica 2"> Práctica 2 </a>
         </body>
