@@ -25,7 +25,7 @@
             <br>
             <a href="Practica 2.php" title="Práctica 2"> Práctica 2 </a>
             <br>
-             <a href="PRACTICA 1.php" title="Práctica 3"> Práctica 3 </a>
+             <a href="PRACTICA 3.php" title="Práctica 3"> Práctica 3 </a>
             <br>
              <a href="PRACTICA 4.php" title="Práctica 4"> Práctica 4 </a>
             <br>
