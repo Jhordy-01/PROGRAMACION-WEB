@@ -34,5 +34,7 @@
              <a href="PRACTICA 6.php" title="Práctica 6"> Práctica 6 </a>
             <br>
              <a href="PRACTICA 7.jpg" title="Práctica 7"> Práctica 7 </a>
+            <br>
+             <a href="PRACTICA 10.php" title="Práctica 10"> Práctica 10 </a>
         </body>
 </html>
